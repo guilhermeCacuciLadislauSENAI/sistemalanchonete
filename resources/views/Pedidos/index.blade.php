@@ -11,12 +11,12 @@
 <div class="container mt-5">
     {{-- Navegação para o Cardápio --}}
     <div class="mb-4">
-        <a href="{{ route('produtos.index') }}" class="btn btn-outline-secondary">🍔 Gerenciar Cardápio (Produtos)</a>
+        <a href="{{ route('produtos.index') }}" class="btn btn-outline-secondary">Gerenciar Cardápio (Produtos)</a>
     </div>
 
     <div class="row mb-4 align-items-center">
         <div class="col-md-6">
-            <h2>📦 Controle de Pedidos</h2>
+            <h2>Controle de Pedidos</h2>
             <p class="text-muted">Acompanhe o andamento dos pedidos em tempo real.</p>
         </div>
         <div class="col-md-6 text-end">
